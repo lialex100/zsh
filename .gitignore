@@ -1,0 +1,10 @@
+# custom files
+custom/
+plugins/example
+example.zsh
+
+# temp files directories
+cache/
+log/
+.DS_Store
+

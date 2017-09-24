@@ -7,4 +7,7 @@
 #
 # brainstormr=~/Projects/development/planetargon/brainstormr
 # cd $brainstormr
+
 alias c="clear"
+alias cls="clear"
+alias hc="echo "" > ~/.zsh_history & exec $SHELL -l"
